@@ -1,11 +1,11 @@
 // write your code below!
-function happyHolidays(string) {
+function happyHolidays() {
 return "Happy holidays!"
 }
-function happyHolidaysTo("Mom") {
+function happyHolidaysTo('Mom') {
 return 'Happy holidays, ${Mom}!'
 }
-function happyHolidaysTo('Christmas', "Mom") {
+function happyHolidaysTo('Christmas', 'Mom') {
 return 'Happy ${Christmas}, ${Mom}!'
 }
 function holidayCountdown(100, 'Christmas') {
